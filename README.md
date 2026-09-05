@@ -1,5 +1,33 @@
-## Hi there 👋
+# Hi, I'm Deepali Shah 👋
 
+### Aspiring Product Manager | AI Product Builder | Product Analytics & SQL
+
+I'm an analytical and curious problem-solver interested in building user-focused products at the intersection of **Product, AI, and Analytics**.
+
+I enjoy understanding the **"why" behind a problem**, exploring user needs, evaluating solutions, and turning ideas into practical product prototypes and AI-powered workflows.
+
+### What I'm working on
+
+- 🧩 Product discovery, user research & product thinking
+- 🤖 AI-powered product prototypes and workflows
+- 📊 Product analytics and SQL
+- 🔍 AI evaluation and quality assessment
+- 🚀 Building projects that strengthen my Product & Analytics portfolio
+
+### Selected Projects
+
+- **Meal Planner** — AI-powered meal planning & grocery assistant
+- **HireMate** — AI interview preparation platform
+- **Rumi** — AI poetry assistant
+- **Cookwise** — AI recipe assistant
+
+### Currently Learning
+
+**SQL → Data Analytics → Product Analytics**
+
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/itsdeeppp)
 <!--
 **Deepali-9119/Deepali-9119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
