@@ -21,7 +21,7 @@ I enjoy understanding the **"why" behind a problem**, exploring user needs, eval
 - **[Rumi](https://github.com/Deepali-9119/rumi-s-muse)** — AI poetry assistant
 - **[Cookwise](https://github.com/Deepali-9119/cookwise-recipe-guide)** — AI recipe assistant
 
-- - [AI Workflows — n8n](https://github.com/Deepali-9119/AI-Workflows--n8n) — AI-powered automation workflows
+-  [AI Workflows — n8n](https://github.com/Deepali-9119/AI-Workflows--n8n) — AI-powered automation workflows
 
 ### Currently Learning
 
