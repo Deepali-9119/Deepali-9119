@@ -16,10 +16,10 @@ I enjoy understanding the **"why" behind a problem**, exploring user needs, eval
 
 ### Selected Projects
 
-- **Meal Planner** — AI-powered meal planning & grocery assistant
-- **HireMate** — AI interview preparation platform
-- **Rumi** — AI poetry assistant
-- **Cookwise** — AI recipe assistant
+- **[MealWiser](https://github.com/Deepali-9119/mealwiser)** — AI-powered meal planning & grocery assistant
+- **[HireMate](https://github.com/Deepali-9119/gethiremate)** — AI interview preparation platform
+- **[Rumi](https://github.com/Deepali-9119/rumi-s-muse)** — AI poetry assistant
+- **[Cookwise](https://github.com/Deepali-9119/cookwise-recipe-guide)** — AI recipe assistant
 
 ### Currently Learning
 
